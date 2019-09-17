@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		492EBBA79868B3CCFEB07629 /* Hyber.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Hyber.podspec; path = ../Hyber.podspec; sourceTree = "<group>"; };
+		492EBBA79868B3CCFEB07629 /* Hyber.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Hyber.podspec; path = ../Hyber.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5FD5E6D01CD120BFC5D67050 /* Pods-Hyber_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hyber_Tests.release.xcconfig"; path = "Target Support Files/Pods-Hyber_Tests/Pods-Hyber_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* Hyber_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hyber_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
