@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Hyber_Tests' do
+  pod 'Hyber', :path => '../'
+  
+  
+end
