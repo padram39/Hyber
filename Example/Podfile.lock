@@ -1,0 +1,16 @@
+PODS:
+  - Hyber (0.1.0)
+
+DEPENDENCIES:
+  - Hyber (from `../`)
+
+EXTERNAL SOURCES:
+  Hyber:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Hyber: 71b853850a85593c97a72c44206e505c7e16d993
+
+PODFILE CHECKSUM: 9f2f04d3fb3abd46d154d81fe76049254522feed
+
+COCOAPODS: 1.8.0.beta.2
